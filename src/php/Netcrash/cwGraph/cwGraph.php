@@ -34,7 +34,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  *
  * @package Netcrash
- * @subpackage Groupon
+ * @subpackage cwGraph
  * @author Fernando Andre <netriver+cwGraph at gmail dit com>
  * @copyright 2011 Fernando Ribeiro http://netcrash.wordpress.com
  * @license http://www.opensource.org/licenses/bsd-license.php BSD License
