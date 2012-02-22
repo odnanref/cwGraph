@@ -1,0 +1,23 @@
+
+cwGraph class to use the methods of pChart to create fast charts
+with basic knowledge of pChart library.
+
+pChart library is required for usage.
+
+This provides a layer of abstraction for other libraries but only 
+pChart was implemented.
+
+In the example directory can be found a basic example that I got
+from old code using this class.
+
+Example in:
+src/php/example/example.php
+
+Source in:
+src/php/cwGraph.php
+
+2 class's exists:
+
+cwGraph
+
+cwFont
